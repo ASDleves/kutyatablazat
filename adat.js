@@ -2,11 +2,11 @@ export const KUTYALISTA = [
     {
         neve: "Vackó",
         fajtaja: "Keverék",
-        kora: 8    
+        kora: 8,    
     },
     {
         neve: "Széria",
-        fajtaja: "Tacskó",
+        fajtaja: "Huski",
         kora: 6    
     },
     {
@@ -21,7 +21,7 @@ export const KUTYALISTA = [
     },
     {
         neve: "Kulcs",
-        fajtaja: "Rottweiler",
+        fajtaja: "Goldi",
         kora: 8    
     },
     {
@@ -36,8 +36,18 @@ export const KUTYALISTA = [
     },
     {
         neve: "Ubul",
-        fajtaja: "Tacskó",
+        fajtaja: "Németjuhász",
         kora: 1    
+    },
+    {
+        neve: "Turbék",
+        fajtaja: "Virslikutya",
+        kora: 3    
+    },
+    {
+        neve: "Birka",
+        fajtaja: "Blöki",
+        kora: 5    
     },
     ]
     

@@ -4,3 +4,19 @@
     margin-top: 10px;
     text-align: center;
 }
+main{
+    width: 80%;
+    max-width: 1200%;
+    margin: auto;
+}
+nav ul li{
+    display: inline;
+    text-decoration: none;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+section{
+    text-align: center;
+}
