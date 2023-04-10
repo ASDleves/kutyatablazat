@@ -50,7 +50,7 @@ export const KUTYALISTA = [
         kora: 5    
     },
     ]
-    
+
     export const kulcsLista = {
         neve: "név",
         fajtaja: "fajta",
